@@ -65,6 +65,7 @@ void systemInit(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 //TODO SPI values must be configurative from user config
+//TODO Commit 3
 //Variable Declerations
 unsigned char ucaPLCUartTxData[PLC_UART_TX_BUFFER_LENGHT];
 unsigned char ucaPLCUartRxData[PLC_UART_RX_BUFFER_LENGHT];
